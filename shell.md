@@ -35,6 +35,9 @@ mv verschiebt und benennt Dateien um
 * rm -r entfernt Verzeichnisse
 Platzhalter sind nützlich, um Gruppen von Dateien und Verzeichnissen auszuwählen
 
+## **[Shell Abk. Worterklärung](https://explainshell.com/)**
+
+*** 
 
 # Cheat Sheet für **Shell Befehle**
 
